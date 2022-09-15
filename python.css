@@ -1,0 +1,187 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+body{
+    height: 1100px;
+}
+
+.logo{
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-left: 30px;
+    letter-spacing: 2px;
+}
+.navbar{
+    position: absolute;
+    font-size: 22px;
+    margin-left: 710px;
+    margin-top: -80px;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+.navbar li{
+    list-style: none;
+    float: left;
+    margin-left: 50px;
+}
+.navbar li:hover{
+    animation: projecty 3s infinite;
+   color: rgb(203,203,203);
+}
+.abcdef{
+
+    padding-bottom: 30px;
+    background-color: rgb(144, 13, 237);
+    color: rgb(144, 13, 237);
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
+    margin-left: -13px;
+    margin-right: -10px;
+    margin-top: -16px;
+    margin-bottom: 2px;
+}
+.head{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 25px;
+    color: rgb(33, 132, 252);
+   font-size: 22px;
+}
+.line{
+    position: absolute;
+    font-size: 5px;
+    color: transparent;
+    background-color: rgb(33, 132, 252);
+    border: 0px solid transparent;
+    margin-left: 24px;
+    margin-right: 100px;
+    margin-top: 111px;
+    margin-bottom: 5px;
+    padding-left: 1030px;
+  
+}
+
+.menus li{
+    list-style: none;
+    color: rgb(33, 132, 252);
+    font-size: 35px;
+    font-weight: 600;
+}
+.menus{
+     margin-left: 20px;
+    margin-top: 20px;
+    color: rgb(144, 13, 237);
+    font-weight: 00;
+
+}
+.menus1 li{
+    list-style: none;
+    font-weight: 600;
+    
+    color: rgb(33, 132, 252);
+    font-size: 35px;
+   
+}
+   
+    .menus1{ font-weight: 000;
+     margin-left: 20px;
+    margin-top: 80px;
+    color: rgb(144, 13, 237);
+}
+.menus2 li{
+    list-style: none;
+    font-weight: 600;
+    
+    color: rgb(33, 132, 252);
+    font-size: 35px;
+   
+}
+.menus2{
+    font-weight: 00;
+
+     margin-left: 20px;
+    margin-top: 80px;
+    color: rgb(144, 13, 237);
+}
+.menus3 li{
+    list-style: none;
+    font-weight: 600;
+    
+    color: rgb(33, 132, 252);
+    font-size: 35px;
+   
+}
+.menus3{
+     margin-left: 20px;
+    margin-top: 80px;
+    font-weight: 00;
+
+    color: rgb(144, 13, 237);
+}
+.bahubali{
+    color: transparent;
+    background-color: rgb(144, 13, 237);
+    padding-top: 50px;
+    margin-left: -13px;
+    margin-right: -10px;
+    margin-top: -16px;
+    font-weight: 600;
+
+    margin-bottom: 2px;
+}
+.menus-img{
+    position: absolute;
+    margin-left: 950px;
+    margin-top: -40px;
+    font-weight: 600;
+
+}
+.menus1-img{
+    position: absolute;
+    margin-left: 950px;
+    margin-top: 127px;
+    font-weight: 600;
+
+}
+.menus2-img{
+    position: absolute;
+    margin-left: 950px;
+    margin-top: 111px;
+}
+.menus3-img{
+    position: absolute;
+    margin-left: 950px;
+    margin-top: 100px;
+}
+.menus-img img{
+    width: 240px;
+    height: 220px;
+}
+.menus1-img img{
+    width: 240px;
+    height: 220px;
+}
+.menus2-img img{
+    width: 240px;
+    height: 220px;
+}
+.menus3-img img{
+    width: 240px;
+    height: 220px;
+}
+.bahubali{
+    color: transparent;
+    background-color: rgb(144, 13, 237);
+    padding-top: 50px;
+    margin-left: -13px;
+    margin-right: -10px;
+    margin-top: -16px;
+    margin-bottom: 2px;
+}
